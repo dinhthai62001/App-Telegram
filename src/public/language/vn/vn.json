@@ -1,0 +1,38 @@
+{
+    "translation" : {
+        "Set Username" :"Set Username",
+        "email": "Email",
+        "ThaiDinh": "vietnam",
+        "sort" : "Loại",
+        "search": " Tìm Kiếm",
+        "contracts" : "Hợp Đồng",
+        "settings" : "Thiết Lập",
+        "findpeople" : "Tìm những người lân cận",
+        "inviteFriends" :"Mời bạn bè",
+        "edit" :"Chỉnh sửa",
+        "chats" : "Trò chuyện",
+        "searchforMessages" : "Tìm kiếm tin nhắn hoặc người dùng",
+        "joinTheGroup" : "tham gia nhóm",
+        "savedMessages": "Tin nhắn đã lưu",
+        "recentCalls" : "Những cuộc gọi gần đây",
+        "devices" : "Thiết bị",
+        "chatfolders" :"Thư mục Trò chuyện",
+        "notification" :"Thông báo và âm thanh",
+        "privacy" : "Quyền riêng tư và Bảo mật",
+        "dataandStorage":"Dữ liệu và Lưu trữ",
+        "appearance" :"Vẻ bề ngoài",
+        "language" :"Ngôn ngữ",
+        "stickers" : "Hình dán và Biểu tượng cảm xúc",
+        "telegramPremium":"Telegram Premium",
+        "askaQuestion":"Đặt một câu hỏi",
+        "telegramFAQ":"Câu hỏi thường gặp về Telegram",
+        "telegramFeatures" :"Các tính năng của Telegram"
+
+
+        
+
+
+       
+
+    }
+}

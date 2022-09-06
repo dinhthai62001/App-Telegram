@@ -1,0 +1,60 @@
+export const DATA_PHONE = [
+  {
+    title: 'A',
+    data: {
+      id: 1,
+      name: 'A Phú',
+      image: anhT,
+      time: '24 September 2017asdasdddddd',
+    },
+  },
+  {
+    id: 2,
+    title: 'B',
+    name: 'a.thanh',
+    image: anhT,
+    time: 'last seen 07/08/21',
+  },
+  {
+    id: 3,
+    title: 'C',
+    name: 'c.Quyen',
+    image: anhT,
+    time: 'last seen 01/08/20',
+  },
+  {
+    id: 4,
+    title: 'D',
+    name: 'b.Nam',
+    image: anhT,
+    time: 'last seen 04/04/21',
+  },
+  {
+    id: 5,
+    title: 'E',
+    name: 'Bao',
+    image: anhT,
+    time: 'last seen yesterday at 12:49',
+  },
+  {
+    id: 6,
+    title: 'F',
+    name: 'Chi Hong',
+    image: anhT,
+    time: 'l',
+  },
+  {
+    id: 7,
+    title: 'G',
+    name: 'Ga',
+    image: anhT,
+    time: 'la',
+  },
+  {
+    id: 8,
+    title: 'H',
+    name: 'a.a',
+    image: anhT,
+    time: 'last seen yesterday at 16:49',
+  },
+];

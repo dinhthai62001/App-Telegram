@@ -1,0 +1,37 @@
+{
+    "translation" : {
+        "set Username" :"Set Username",
+        "email": "Email",
+        "ThaiDinh": "english",
+        "sort" : "Sort",
+        "search": " Search",
+        "contracts" : "Contracts",
+        "settings" : "Settings",
+        "findpeople" : "Find People Nearby",
+        "inviteFriends" :"Invite Friends",
+        "edit" :"Edit",
+        "chats" : "Chats",
+        "searchforMessages" : "Search for messages or users",
+        "joinTheGroup" : "join the group",
+        "savedMessages": "Saved Messages",
+        "recentCalls" : "Recent Calls",
+        "devices" : "Devices",
+        "chatfolders" :"Chat Folders ",
+        "notification" :"Notification and Sounds",
+        "privacy" : "Privacy and Security",
+        "dataandStorage":"Data and Storage",
+        "appearance" :"Appearance",
+        "language" :"Language",
+        "stickers" : "Stickers and Emoji",
+        "telegramPremium":"Telegram Premium",
+        "askaQuestion":"Ask a Question",
+        "telegramFAQ":"Telegram FAQ",
+        "telegramFeatures" :"Telegram Features"
+
+
+
+       
+
+
+    }
+}
